@@ -2,6 +2,12 @@
 
 $(document).ready(function() {
   var items = [
+    {
+      "name" : "Test Item",
+      "image" : "models/thumbnails/3664-sofa.png",
+      "model" : "models/js/Koltuk.js",
+      "type" : "1"
+    }, 
    {
       "name" : "Closed Door",
       "image" : "models/thumbnails/thumbnail_Screen_Shot_2014-10-27_at_8.04.12_PM.png",
